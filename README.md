@@ -1,4 +1,14 @@
-# The Beginner's Guide to eBPF
+# Notes From Subhrendu
+* ebpf Installation in Ubuntu 22.04 (Do not worry if some packages are unavailable)
+  * `sudo apt install python3 ipython3 python3-pip`
+  * `sudo apt install bpfcc-introspection bpftrace bpfcc-tools`
+  * `sudo pip3 install pyebpf bpfcc`
+
+  
+
+# Notes from Liz Rice
+## The Beginner's Guide to eBPF
+Notes from Liz Rice
 
 _New report "What is eBPF?" now available for [download from Isovalent](https://isovalent.com/ebpf/) or with your subscription to [O'Reilly's learning platform](https://www.oreilly.com/library/view/what-is-ebpf/9781492097266/)_
 

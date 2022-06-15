@@ -1,12 +1,16 @@
 # Notes From Subhrendu
-* ebpf Installation in Ubuntu 22.04 (Do not worry if some packages are unavailable)
+## ebpf Installation in Ubuntu 22.04 (Do not worry if some packages are unavailable)
   * `sudo apt install python3 ipython3 python3-pip`
   * `sudo apt install bpfcc-introspection bpftrace bpfcc-tools`
   * `sudo pip3 install pyebpf bpfcc`
 
   
 
-# Notes from Liz Rice
+## Useful Repos for eBPF sources and examples
+  * [iovisor] (https://github.com/iovisor/bcc.git)
+  * [cilium] (https://github.com/cilium/ebpf)
+  * [Docs] (https://www.kernel.org/doc/html/latest/userspace-api/ebpf/syscall.html)
+# Notes from Liz Rice (Original maintainer of the repo)
 ## The Beginner's Guide to eBPF
 Notes from Liz Rice
 
